@@ -1,0 +1,1 @@
+A simple calculator written in Python which calculates person's Body Fat Percentage, and optionally Body Mass Index if the user doesn't know it for the person.
